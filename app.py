@@ -41,7 +41,7 @@ def load_data():
 
     # READ EXCEL FILE WITH CORRECT HEADER
     df = pd.read_excel(
-        "data/Kittchen PNL Data.xlsx",
+       "Kittchen PNL Data.xlsx",
         header=1
     )
 
